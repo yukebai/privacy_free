@@ -1,0 +1,12 @@
+#User Agreement and Privacy Statement
+Cette entente est un contrat entre vous et le propriétaire du droit d'auteur du « Standard Calculatrice». Elle a l'effet juridique d'un contrat. Veuillez le lire attentivement.
+Le champ d'application et le contenu de la Politique de protection des renseignements personnels
+Merci d’avoir choisi d’utiliser nos produits. Veuillez lire attentivement notre Politique de protection des renseignements personnels avant d’utiliser nos produits. Votre utilisation de nos produits sera considérée comme votre pleine acceptation de cette Politique de protection des renseignements personnels et votre engagement à respecter toutes les lois et règlements applicables. Si vous n’êtes pas d’accord avec notre Politique de protection de la vie privée, s’il vous plaît ne pas utiliser nos produits. Si vous avez commencé à utiliser nos produits, arrêtez immédiatement d’utiliser ces produits. Votre utilisation sera considérée comme votre accord que cette Politique de protection de la vie privée s’applique à vous.
+2[UNK] Mise à jour
+Selon les changements apportés aux lois et aux politiques réglementaires, notre politique de protection de la vie privée s'améliore constamment. Avec l'expansion de nos produits et services, nous pourrons mettre à jour la Politique de protection des renseignements personnels à tout moment. Veuillez toujours vérifier la dernière Politique de protection des renseignements personnels. Si la mise à jour pertinente entraîne une réduction significative de vos droits en vertu de cette Politique de protection des renseignements personnels, nous vous notifierons dans la position prominente de l'interface de produits ou dans la nouvelle annonce de contenu de la nouvelle version du logiciel App Store. Votre utilisation continue de nos produits à l'avenir sera considérée comme votre pleine acceptation de ces mises à jour.
+Si vous n'êtes pas d'accord avec la Politique de protection de la vie privée révisée, arrêtez immédiatement d'utiliser nos produits.
+3[UNK] Collection et utilisation d’informations personnelles
+Nous ne recueillons pas vos renseignements personnels.
+Nos produits vous demanderont l'autorisation suivante pendant l'exploitation normale:
+1. stockage: Pour lire et gérer les données dans l'espace de stockage de votre appareil
+L'autorisation ci-dessus est nécessaire, sinon les fonctions pertinentes du produit ne peuvent pas fonctionner comme prévu.
